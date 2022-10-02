@@ -1,0 +1,5 @@
+This is vim editor.
+To start => press i 
+To save & quit => first press Esc key and write :wq and hit enter
+To quit only => first press Esc key and then write :q! hit enter
+To quit when you have not made any changes => :q 
